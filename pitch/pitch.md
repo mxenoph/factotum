@@ -45,7 +45,7 @@ The target market in 5 years is expected to increase.
 
 ### BuisinessModel
 
-![businessModel](https://github.com/mxenoph/factotum/blob/master/pitch/businessModel.png)
+![businessModel](https://github.com/mxenoph/factotum/blob/master/pitch/businessModel1.png)
 
 
 Examples:
