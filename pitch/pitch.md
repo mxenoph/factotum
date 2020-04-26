@@ -56,7 +56,15 @@ Examples:
 
 ### Competition
 
-![competition](https://github.com/mxenoph/factotum/blob/master/pitch/competition.png)
+<!--![competition](https://github.com/mxenoph/factotum/blob/master/pitch/competition.png)-->
+
+|                           | Factotum Care (us) | Posture Group | Rising Workplace                     |
+|---------------------------|--------------------|---------------|--------------------------------------|---|
+| Online platform only      | yes                | yes           | Workstation assessment webinars only |
+| Basic customized services | soon               | yes           | yes                                  |
+| WSA assessment by a human | no                 | no            | yes                                  |
+| Productivity tips & rules | yes                | no            | no                                   |
+| Subscription/Fee Free     | yes                | no            | no                                   |
 
 ### Marketing Plan
 
