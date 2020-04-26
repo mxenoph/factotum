@@ -50,6 +50,7 @@ The target market in 5 years is expected to increase.
 
 
 Examples:
+
 - Advertisements for kid's learning
 - Advertisements for workspace retailers.
 
@@ -64,7 +65,7 @@ Reach and engage target audience via:
 
  1. Social platforms
     -  Making use of #COVID19 and #workingfromhome
-    -  Making use of the team’s personal connections to professionals in web development, IT, bioinformatics and business 
+    -  Making use of the team’s personal connections to professionals in software development, bioinformatics and business industries.
 2. The alumni database of our current and past institutions. 
 3. Advertising to companies.
 
@@ -73,6 +74,7 @@ Reach and engage target audience via:
 
 Our unfair advantages:
   1. We are the target audience!
+
     - Having worked remotely once a week in the past few years and being trained to be efficient by big companies, we have both walked in our users’ shoes and have tested the remedies we recommend **in the depth of time**.
     - Our professional connections permit us to attract a large user base fast.
   2. We offer the service for FREE.
@@ -99,10 +101,10 @@ Before launch:
   - Fund the costs of hosting the website ourselves and put in the hours :)
     
 After launch:
-  - Monetize via selected advertisement of
+  - Monetize via selected advertisement of:
     - Ergonomic furniture and PC equipment
     - Fitness related products
-  - Ask our users for donations, only if advertisement does not cover website maintenance costs
+  - Ask our users for donations, only if advertisement does not cover website maintenance costs.
 
 <!--Premium business plan -->
 <!--monthly / yearly fee-->
