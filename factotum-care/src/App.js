@@ -8,7 +8,7 @@ import About from './js/pages/about'
 import MentalHealth from './js/pages/MentalHealth/MentalHealth'
 import WorkstationAssess from './js/pages/WorkstationAssess'
 import VertGuide from './js/pages/VertGuide'
-import Surroundings from "./js/pages/Surroundings/Surroundings";
+import Surroundings from './js/pages/Surroundings/Surroundings'
 
 class App extends Component {
     render() {
