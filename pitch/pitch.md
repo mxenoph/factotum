@@ -33,11 +33,11 @@ Factotum Care provides personalized tools to help employees stay efficient and h
 
 ### Market Size
 
-***Available market*** today:
+***[Available market](https://www.owllabs.com/state-of-remote-work)*** today:
 
 ![marketSize](https://github.com/mxenoph/factotum/blob/master/pitch/marketSize.png)
 
-***Target market*** today:
+***[Target market](https://ec.europa.eu/eurostat/data/browse-statistics-by-theme)*** today:
 
 - 10% of european workforce working occasionally from home
 
@@ -66,8 +66,8 @@ Reach and engage target audience via:
  1. Social platforms
     -  Making use of #COVID19 and #workingfromhome
     -  Making use of the team’s personal connections to professionals in software development, bioinformatics and business industries.
-2. The alumni database of our current and past institutions. 
-3. Advertising to companies.
+ 2. The alumni database of our current and past institutions. 
+ 3. Advertising to companies.
 
 
 ### Traction
@@ -97,8 +97,8 @@ We are the right team to execute this business plan because:
 ### Money
 
 Before launch:
-  - Seek for investors
-  - Fund the costs of hosting the website ourselves and put in the hours :)
+  - Seek for investors to help launch.
+  - Fund the costs of hosting the website ourselves and put in the hours.
     
 After launch:
   - Monetize via selected advertisement of:
