@@ -68,3 +68,43 @@ Reach and engage target audience via:
 2. The alumni database of our current and past institutions. 
 3. Advertising to companies.
 
+
+### Traction
+
+Our unfair advantages:
+  1. We are the target audience!
+    - Having worked remotely once a week in the past few years and being trained to be efficient by big companies, we have both walked in our users’ shoes and have tested the remedies we recommend **in the depth of time**.
+    - Our professional connections permit us to attract a large user base fast.
+  2. We offer the service for FREE.
+
+
+### Team
+
+We are the right team to execute this business plan because:
+
+  1. We are highly goal oriented individuals who feel passionate about this project.
+  2. We are part of the target audience.
+  3. We bring a variety of skills to this project:
+    - Information technology
+    - Data analysis
+    - Illustration 
+  4. We will offer the full functionality of FACTOTUM CARE subscription free forever.
+  5. We understand our limitations and with the launch of the website we will be seeking/hiring help in managing the business. 
+  
+
+### Money
+
+Before launch:
+  - Seek for investors
+  - Fund the costs of hosting the website ourselves and put in the hours :)
+    
+After launch:
+  - Monetize via selected advertisement of
+    - Ergonomic furniture and PC equipment
+    - Fitness related products
+  - Ask our users for donations, only if advertisement does not cover website maintenance costs
+
+<!--Premium business plan -->
+<!--monthly / yearly fee-->
+<!--freelance / company fee-->
+
