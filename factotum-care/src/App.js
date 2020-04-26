@@ -8,6 +8,7 @@ import About from './js/pages/about'
 import MentalHealth from './js/pages/MentalHealth/MentalHealth'
 import WorkstationAssess from './js/pages/WorkstationAssess'
 import VertGuide from './js/pages/VertGuide'
+import Surroundings from "./js/pages/Surroundings/Surroundings";
 
 class App extends Component {
     render() {
@@ -18,9 +19,9 @@ class App extends Component {
             <Route  path="/" exact component={() => <HomePage />}/>
             {/* <Route  path="/about" exact component={() => <About />}/> */}
             <Route  path="/mental" exact component={() => <MentalHealth />}/>
-            <Route  path="/productivity" exact component={() => <Productivity />}/>
-            <Route  path="/workstation" exact component={() => <WorkstationAssess />}/>
-            <Route  path="/vertguide" exact component={() => <VertGuide />}/>
+            <Route  path="/productivity" exact component={() => <Productivity />}/>            
+            <Route path="/surroundings" exact component={() => <Surroundings />} />
+            <Route path="/workstation" exact component={() => <VertGuide />} />
             </Switch>
         </Router>          
         </div>
