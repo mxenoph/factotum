@@ -120,6 +120,4 @@ After launch:
 
 
 ---
-###### Link: 
-
-https://factotum-care.netlify.app/
+###### Link: https://factotum-care.netlify.app/
