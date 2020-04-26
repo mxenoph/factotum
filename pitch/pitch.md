@@ -58,8 +58,8 @@ Examples:
 
 <!--![competition](https://github.com/mxenoph/factotum/blob/master/pitch/competition.png)-->
 
-|                           | Factotum Care (us) | Posture Group | Rising Workplace                     |
-|---------------------------|--------------------|---------------|--------------------------------------|---|
+|                           | Factotum Care (us) | [Posture Group](https://www.posturegroup.co.uk/) | [Rising Workplace](https://www.risingworkplace.com/home-office-ergonomics)                     |
+|---------------------------|--------------------|---------------|--------------------------------------|
 | Online platform only      | yes                | yes           | Workstation assessment webinars only |
 | Basic customized services | soon               | yes           | yes                                  |
 | WSA assessment by a human | no                 | no            | yes                                  |
