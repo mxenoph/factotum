@@ -118,6 +118,14 @@ After launch:
 <!--freelance / company fee-->
 
 
+### What have we done during the weekend
+
+- Created a front-end ReactJS application from scratch.
+- Created content (information, tips and illustrations) for all aspects of remote work we address in the website.
+- Deployed and published the website.
+- We created the video and the text pitch.
+
 
 ---
 ###### Link: https://factotum-care.netlify.app/
+###### Github: https://github.com/kioann04/factotum-care
