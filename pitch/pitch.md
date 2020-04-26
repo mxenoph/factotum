@@ -49,9 +49,9 @@ The target market in 5 years is expected to increase.
 ![businessModel](https://github.com/mxenoph/factotum/blob/master/pitch/businessModel.png)
 
 
-<center>Examples:</center>
-<center>Advertisements for kid's learning</center>
-<center>Advertisements for workspace retailers.</center>
+Examples:
+- Advertisements for kid's learning
+- Advertisements for workspace retailers.
 
 
 ### Competition
