@@ -35,7 +35,7 @@ Factotum Care provides personalized tools to help employees stay efficient and h
 
 ***Available market*** today:
 
-![marketSize](marketSize.png)
+![marketSize](https://github.com/mxenoph/factotum/blob/master/pitch/marketSize.png)
 
 ***Target market*** today:
 
@@ -46,7 +46,7 @@ The target market in 5 years is expected to increase.
 
 ### BuisinessModel
 
-![businessModel](businessModel.png)
+![businessModel](https://github.com/mxenoph/factotum/blob/master/pitch/businessModel.png)
 
 
 <center>Examples:</center>
@@ -56,7 +56,7 @@ The target market in 5 years is expected to increase.
 
 ### Competition
 
-![competition](competition.png)
+![competition](https://github.com/mxenoph/factotum/blob/master/pitch/competition.png)
 
 ### Marketing Plan
 
