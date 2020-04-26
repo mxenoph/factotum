@@ -30,3 +30,24 @@ Factotum Care provides tips for employees who work part or full time remotely; f
 Factotum Care provides personalized tools to help employees stay efficient and healthy. It reminds them to take a break to stretch and drink water. Factotum Care allows frolleagues and families to sync their breaks based on their scheduled meetings and pomodoro intervals.
  
 
+
+### Market Size
+
+***Available market*** today:
+
+![marketSize](marketSize.png)
+
+***Target market*** today:
+
+- 10% of european workforce working occasionally from home
+
+The target market in 5 years is expected to increase.
+
+
+### BuisinessModel
+
+![marketSize](marketSize.png)
+
+Examples:
+Advertisements for kid's learning
+Advertisements for workspace retailers.
