@@ -46,8 +46,25 @@ The target market in 5 years is expected to increase.
 
 ### BuisinessModel
 
-![marketSize](marketSize.png)
+![businessModel](businessModel.png)
 
-Examples:
-Advertisements for kid's learning
-Advertisements for workspace retailers.
+
+<center>Examples:</center>
+<center>Advertisements for kid's learning</center>
+<center>Advertisements for workspace retailers.</center>
+
+
+### Competition
+
+![competition](competition.png)
+
+### Marketing Plan
+
+Reach and engage target audience via:
+
+ 1. Social platforms
+    -  Making use of #COVID19 and #workingfromhome
+    -  Making use of the team’s personal connections to professionals in web development, IT, bioinformatics and business 
+2. The alumni database of our current and past institutions. 
+3. Advertising to companies.
+
